@@ -1,0 +1,9 @@
+{
+	"name": "data-pipelines-2025",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "79f98d07-0511-444f-8c48-0d9b6fafb634",
+		"tenantId": "3759b671-dc4c-450e-9756-6c230d5283f4"
+	}
+}
